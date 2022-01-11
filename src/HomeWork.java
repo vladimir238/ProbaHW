@@ -19,6 +19,7 @@ public class HomeWork {
         System.out.println(rs);
         System.out.println("Пробуем работать с GitHub");
         System.out.println("Пробуем работать с GitHub");
+        System.out.println("Пробуем работать с GitHub");
 
 
     }
